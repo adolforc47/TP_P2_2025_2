@@ -18,6 +18,7 @@ namespace SistemaGimnasio.Modelos
         {
             Nombre = nombre;
             Especialidad = especialidad;
+            usuariosAsignados = new List<Usuario>();
         }
 
         //Métodos
