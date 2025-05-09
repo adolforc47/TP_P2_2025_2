@@ -2,7 +2,7 @@
 
 namespace SistemaGimnasio.Servicios
 {
-    internal class AsignadorRutinas
+    public class AsignadorRutinas
     {
         //Métodos
         public void AsignarRutinaAUsuario(Usuario usuario, Rutina rutina)
